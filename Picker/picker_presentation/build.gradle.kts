@@ -18,4 +18,5 @@ android {
 
 dependencies {
     implementation(libs.coil)
+    implementation(libs.androidx.compose.material.icons.extended)
 }

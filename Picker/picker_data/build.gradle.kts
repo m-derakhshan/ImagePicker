@@ -15,3 +15,8 @@ android {
         }
     }
 }
+
+
+dependencies {
+    implementation(project(Picker.domain))
+}

@@ -19,7 +19,6 @@ org-jetbrains-kotlin-jvm = "1.9.10"
 coil = "2.4.0"
 
 google-dagger-hilt-android = "2.48"
-google-dagger-hilt-compiler = "2.48"
 google-dagger-hilt-android-testing = "2.44"
 google-dagger-hilt-android-compiler = "2.44"
 google-dagger-hilt-android-gradle-plugin = "2.48"
